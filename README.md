@@ -1,7 +1,7 @@
 # KAIST-DP 
 ## KAIST Divergence Path Dataset
 
-<img src="https://github.com/SungJaeShin/KAIST-DP/HW_configuration.png" width = 80% height = 80% div align=center />
+<img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/HW_configuration.png" width = 80% height = 80% div align=center />
 
 
 **Description**
@@ -54,6 +54,15 @@ Open two terminals, run multi camera and IMU and get the bag file respectively:
 (then, bag file save at bag folder !!)
 
 
-## 4. Acknowledgements
+## 4. Results of sensor data applying LIO-SAM and VINS-Fusion
+- For LiDAR data applied [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM.git)
+    <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/lio_sam.png" width = 80% height = 80% div align=center />
+
+
+- For Camera data applied [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion.git)
+    <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/vins_fusion.png" width = 80% height = 80% div align=center />
+
+
+## 5. Acknowledgements
 These cameras and IMU are provided URL of KAIST.
 
