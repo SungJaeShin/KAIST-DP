@@ -1,9 +1,13 @@
 # KAIST-DP 
 ## KAIST Divergence Path Dataset
 
+<img src="https://github.com/SungJaeShin/KAIST-DP/HW_configuration.png" width = 80% height = 80% div align=center />
+
+
 **Description**
 - Intel Realsense D455 x3
 - Xsens MtTI-300 IMU
+- Velodyne LiDAR VLP 16
 
 
 **For using PanoNetVLAD**
