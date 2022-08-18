@@ -67,9 +67,17 @@ Open two terminals, run multi camera and IMU and get the bag file respectively:
 (then, bag file save at bag folder !!)
 
 ## 4. Provided Dataset
-- KAIST-DP (Library): 
-    - [Original Dataset](https://github.com/SungJaeShin/PanoNetVLAD.git) & [Tilt Dataset](https://github.com/SungJaeShin/PanoNetVLAD.git)
+- KAIST-DP Library: 
+    - [Library](https://github.com/SungJaeShin/PanoNetVLAD.git) & [Library-Tilt](https://github.com/SungJaeShin/PanoNetVLAD.git)
     <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/library_path.png" width = 80% height = 80% div align=center />
+
+- KAIST-DP EE-Building:
+    - [EE-Building](https://github.com/SungJaeShin/PanoNetVLAD.git)
+    <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/ee_building_path.png" width = 80% height = 80% div align=center />
+
+- KAIST-DP EE-Building-Indoor:
+    - [EE-Building-Indoor](https://github.com/SungJaeShin/PanoNetVLAD.git)
+    <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/ee_building_indoor_path.png" width = 80% height = 80% div align=center />
 
 
 ## 5. Example of sensor data applying LIO-SAM and VINS-Fusion
