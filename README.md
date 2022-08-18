@@ -10,6 +10,19 @@
 - Velodyne LiDAR VLP 16
 
 
+**ROS Topic Name**
+- Image Topic (__sensor_msgs/Image__):
+    - Front Camera: "/front/camera/infra1/image_rect_raw" & "/front/camera/infra2/image_rect_raw"
+    - Left Camera: "/left/camera/infra1/image_rect_raw" & "/left/camera/infra2/image_rect_raw"
+    - Right Camera: "/right/camera/infra1/image_rect_raw" & "/right/camera/infra2/image_rect_raw"
+
+- IMU Topic (__sensor_msgs/Imu__):
+    - "/imu/data"
+
+- LiDAR Topic (__velodyne_msgs/VelodyneScan__):
+    - "/velodyne_packets"
+    
+
 **For using PanoNetVLAD**
 - [PanoNetVLAD](https://github.com/SungJaeShin/PanoNetVLAD.git): Loop Closing in Continuous Visual Space represented with Panoramic View ​
 
@@ -53,8 +66,9 @@ Open two terminals, run multi camera and IMU and get the bag file respectively:
 ```
 (then, bag file save at bag folder !!)
 
+## 4. Provided Dataset
 
-## 4. Results of sensor data applying LIO-SAM and VINS-Fusion
+## 5. Example of sensor data applying LIO-SAM and VINS-Fusion
 - For LiDAR data applied [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM.git)
     <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/lio_sam.png" width = 80% height = 80% div align=center />
 
@@ -63,6 +77,6 @@ Open two terminals, run multi camera and IMU and get the bag file respectively:
     <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/vins_fusion.png" width = 80% height = 80% div align=center />
 
 
-## 5. Acknowledgements
+## 6. Acknowledgements
 These cameras and IMU are provided URL of KAIST.
 
