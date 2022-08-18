@@ -10,7 +10,7 @@
 - Velodyne LiDAR VLP 16
 
 
-**ROS Topic Name**
+**Message Topic Name**
 - Image Topic (__sensor_msgs/Image__):
     - Front Camera: "/front/camera/infra1/image_rect_raw" & "/front/camera/infra2/image_rect_raw"
     - Left Camera: "/left/camera/infra1/image_rect_raw" & "/left/camera/infra2/image_rect_raw"
@@ -66,7 +66,7 @@ Open two terminals, run multi camera and IMU and get the bag file respectively:
 ```
 (then, bag file save at bag folder !!)
 
-## 4. Provided Dataset
+## 4. Provided Dataset (ROSBAG Data)
 - KAIST-DP Library: 
     - [Library](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/EgFowFsfCnJOrnf8YNZT4_ABsuKom2Fc5WmXYDZKLxbHWw?e=cAQULA) & [Library-Tilt](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/EoIrnHe06QNPpVh3wZXYsO8BuT7ao6k5xnyLYq34oiYDGw?e=VCMF23)
     <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/library_path.png" width = 80% height = 80% div align=center />
