@@ -68,15 +68,15 @@ Open two terminals, run multi camera and IMU and get the bag file respectively:
 
 ## 4. Provided Dataset
 - KAIST-DP Library: 
-    - [Library](https://github.com/SungJaeShin/PanoNetVLAD.git) & [Library-Tilt](https://github.com/SungJaeShin/PanoNetVLAD.git)
+    - [Library](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/EgFowFsfCnJOrnf8YNZT4_ABsuKom2Fc5WmXYDZKLxbHWw?e=cAQULA) & [Library-Tilt](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/EoIrnHe06QNPpVh3wZXYsO8BuT7ao6k5xnyLYq34oiYDGw?e=VCMF23)
     <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/library_path.png" width = 80% height = 80% div align=center />
 
 - KAIST-DP EE-Building:
-    - [EE-Building](https://github.com/SungJaeShin/PanoNetVLAD.git)
+    - [EE-Building](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/ErDl1w2n56VOi7I-0XTpV1EB0WMorX6Aa3_CKpHn79b9RQ?e=JNhl6l)
     <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/ee_building_path.png" width = 80% height = 80% div align=center />
 
 - KAIST-DP EE-Building-Indoor:
-    - [EE-Building-Indoor](https://github.com/SungJaeShin/PanoNetVLAD.git)
+    - [EE-Building-Indoor](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/Eiawqsudb51KhiSLEA1H3mgBruKdMMPxR3aWvmmdqQVR9w?e=p5tBdC)
     <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/ee_building_indoor_path.png" width = 80% height = 60% div align=center />
 
 
