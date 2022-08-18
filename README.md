@@ -67,6 +67,9 @@ Open two terminals, run multi camera and IMU and get the bag file respectively:
 (then, bag file save at bag folder !!)
 
 ## 4. Provided Dataset
+- KAIST-DP (Library): [Original](https://github.com/SungJaeShin/PanoNetVLAD.git) [Tilt](https://github.com/SungJaeShin/PanoNetVLAD.git)
+    <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/library_path.png" width = 80% height = 80% div align=center />
+
 
 ## 5. Example of sensor data applying LIO-SAM and VINS-Fusion
 - For LiDAR data applied [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM.git)
