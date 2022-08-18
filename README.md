@@ -6,7 +6,7 @@
 
 **Description**
 - Intel Realsense D455 x3
-- Xsens MtTI-300 IMU
+- Xsens MTI-300 IMU
 - Velodyne LiDAR VLP 16
 
 
