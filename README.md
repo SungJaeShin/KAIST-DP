@@ -77,7 +77,7 @@ Open two terminals, run multi camera and IMU and get the bag file respectively:
 
 - KAIST-DP EE-Building-Indoor:
     - [EE-Building-Indoor](https://github.com/SungJaeShin/PanoNetVLAD.git)
-    <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/ee_building_indoor_path.png" width = 80% height = 80% div align=center />
+    <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/ee_building_indoor_path.png" width = 80% height = 60% div align=center />
 
 
 ## 5. Example of sensor data applying LIO-SAM and VINS-Fusion
