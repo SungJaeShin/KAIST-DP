@@ -3,6 +3,10 @@
 
 <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/HW_configuration.png" width = 80% height = 80% div align=center />
 
+**Publish Paper** 
+- **Sungjae Shin**, Yeeun Kim, Byeongho Yu, Eungchang Mason Lee, and Hyun Myung, "PanoNetVLAD: Visual Loop Detection in Continuous Space represented with Panoramic View," ___in Proc International Conference on Control, Automation and Systems (ICCAS)___, 2023.
+
+If you use KAIST-DP dataset for your academic research, please cite our paper.
 
 **Description**
 - Intel Realsense D455 x3
@@ -21,11 +25,6 @@
 
 - LiDAR Topic (__velodyne_msgs/VelodyneScan__):
     - "/velodyne_packets"
-    
-
-**For using PanoNetVLAD**
-- [PanoNetVLAD](https://github.com/SungJaeShin/PanoNetVLAD.git): Loop Closing in Continuous Visual Space represented with Panoramic View ​
-
 
 ## 1. Prerequisites
 ### 1.1 **Ubuntu** and **ROS**
