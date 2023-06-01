@@ -3,11 +3,13 @@
 
 <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/HW_configuration.png" width = 80% height = 80% div align=center />
 
+---
 **Publish Paper** 
 
 If you use KAIST-DP dataset for your academic research, please cite our paper.
-- **Sungjae Shin**, Yeeun Kim, Byeongho Yu, Eungchang Mason Lee, and Hyun Myung, "PanoNetVLAD: Visual Loop Closure Detection in Continuous Space Represented With Panoramic View Using Multiple Cameras," _in Proc International Conference on Control, Automation and Systems (ICCAS)_, 2023.
 
+- **Sungjae Shin**, Yeeun Kim, Byeongho Yu, Eungchang Mason Lee, and Hyun Myung, "PanoNetVLAD: Visual Loop Closure Detection in Continuous Space Represented With Panoramic View Using Multiple Cameras," _in Proc International Conference on Control, Automation and Systems (ICCAS)_, 2023.
+---
 
 **Description**
 - Intel Realsense D455 x3
