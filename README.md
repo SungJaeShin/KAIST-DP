@@ -70,7 +70,7 @@ Open two terminals, run multi camera and IMU and get the bag file respectively:
 
 ## 4. Provided Dataset (ROSBAG Data)
 - KAIST-DP Outdoor Dataset (Library): 
-    - [E9 Building](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/EgFowFsfCnJOrnf8YNZT4_ABsuKom2Fc5WmXYDZKLxbHWw?e=cAQULA) & [Library-Tilt](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/EoIrnHe06QNPpVh3wZXYsO8BuT7ao6k5xnyLYq34oiYDGw?e=VCMF23)
+    - [E9 Building](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/EgFowFsfCnJOrnf8YNZT4_ABsuKom2Fc5WmXYDZKLxbHWw?e=cAQULA) & [E9 Building Tilt](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/EoIrnHe06QNPpVh3wZXYsO8BuT7ao6k5xnyLYq34oiYDGw?e=VCMF23)
     <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/library_path.png" width = 80% height = 80% div align=center />
 
 - KAIST-DP EE-Building:
