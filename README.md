@@ -1,6 +1,4 @@
-# KAIST-DP 
-## KAIST Divergence Path Dataset
-
+# KAIST Divergence Path (KAIST-DP) Dataset 
 <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/HW_configuration.png" width = 80% height = 80% div align=center />
 
 ---
