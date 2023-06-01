@@ -94,4 +94,4 @@ Open two terminals, run multi camera and IMU and get the bag file respectively:
 ## 6. Acknowledgements
 These cameras and IMU are provided URL of KAIST.
 
-For commercial inquiries, please contact Sungjae Shin <pootti@kaist.ac.kr>
+For commercial inquiries, please contact Sungjae Shin <(pootti@kaist.ac.kr)>
