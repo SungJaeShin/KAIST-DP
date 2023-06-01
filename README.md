@@ -9,7 +9,7 @@ If you use KAIST-DP dataset for your academic research, please cite our paper.
 - **Sungjae Shin**, Yeeun Kim, Byeongho Yu, Eungchang Mason Lee, and Hyun Myung, "PanoNetVLAD: Visual Loop Closure Detection in Continuous Space Represented With Panoramic View Using Multiple Cameras," _in Proc International Conference on Control, Automation and Systems (ICCAS)_, 2023.
 <table>
       <tr>
-         <td> **Sungjae Shin**, Yeeun Kim, Byeongho Yu, Eungchang Mason Lee, and Hyun Myung, "PanoNetVLAD: Visual Loop Closure Detection in Continuous Space Represented With Panoramic View Using Multiple Cameras," _in Proc International Conference on Control, Automation and Systems (ICCAS)_, 2023.</td>         
+         <td> - **Sungjae Shin**, Yeeun Kim, Byeongho Yu, Eungchang Mason Lee, and Hyun Myung, "PanoNetVLAD: Visual Loop Closure Detection in Continuous Space Represented With Panoramic View Using Multiple Cameras," _in Proc International Conference on Control, Automation and Systems (ICCAS)_, 2023.</td>         
       </tr>
 </table>
 
