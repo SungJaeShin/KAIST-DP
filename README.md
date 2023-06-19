@@ -92,4 +92,6 @@ Open two terminals, run multi camera and IMU and get the bag file respectively:
 ## 6. Acknowledgements
 These cameras and IMU are provided URL of KAIST.
 
+Thank you for Byeongho Yu making Zig get the KAIST-DP dataset.
+
 For commercial inquiries, please contact Sungjae Shin (pootti@kaist.ac.kr)
